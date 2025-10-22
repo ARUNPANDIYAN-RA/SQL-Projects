@@ -72,19 +72,20 @@ we have to execute the below tasks using sql queries
 ### Queries and Analysis 🔎
 
 	A detailed project report with the outputs is available in
-	-[Project_Report.pdf]📄(#project-report-)
-	-[output_screenshots]📂(#output-screenshots-)
-	-[queries_csv_output]📂(#queries-csv-output-)
+	
+	- Project_Report.pdf📄
+	- output_screenshots📂
+	- queries_csv_output📂
 	
 ***
 
 ### Technology Stack 💻
 
-Database: [SQL Server]
+Database: -[SQL Server](#Server)
 
-Language: [SQL (Structured Query Language)]
+Language: [SQL (Structured Query Language)](#sql)
 
-Tool: [My SQL Workbench]
+Tool: [My SQL Workbench](#mysql)
 
 ***
 

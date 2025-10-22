@@ -1,10 +1,11 @@
 # Medical Data History 🏥
+
 ***
 
-## Table of Contents
+## Table of Contents 🚪
 
 - [Project Overview](#project-Overview-🚀)
-- [Objectives](#Objectives-💻)
+- [Project Goals](#Project-Goals-💻)
 
 
 ## Project Overview 🎯
@@ -29,8 +30,8 @@ With all the data’s in the tables admissions, doctors, patients, province_name
 
 ***
 
-## Objectives 🎯
-we have to execute the below tasks
+## Project Goals 🎯
+we have to execute the below tasks using sql queries
 
 ### 1. Show first name, last name, and gender of patients who's gender is 'M'
 ### 2. Show first name and last name of patients who does not have allergies.
@@ -65,3 +66,31 @@ we have to execute the below tasks
 ### 31. Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group. Order the list by the weight group decending. e.g. if they weight 100 to 109 they are placed in the 100 weight group, 110-119 = 110 weight group, etc.
 ### 32. Show patient_id, weight, height, isObese from the patients table. Display isObese as a boolean 0 or 1. Obese is defined as weight(kg)/(height(m). Weight is in units kg. Height is in units cm.
 ### 33. Show patient_id, first_name, last_name, and attending doctor's specialty. Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first name is 'Lisa'. Check patients, admissions, and doctors tables for required information.
+
+***
+
+### Queries and Analysis 🔎
+
+	A detailed project report with the outputs is available in
+	-[Project_Report.pdf]📄(#project-report-)
+	-[output_screenshots]📂(#output-screenshots-)
+	-[queries_csv_output]📂(#queries-csv-output-)
+	
+***
+
+### Technology Stack 💻
+
+Database: [SQL Server]
+
+Language: [SQL (Structured Query Language)]
+
+Tool: [My SQL Workbench]
+
+***
+
+### Contact 🤝
+👤 GitHub: [ARUNPANDIYAN-RA](https://github.com/ARUNPANDIYAN-RA)
+👔 LinkedIn: [ArunPandiyan R A](https://www.linkedin.com/in/arunpandiyanofficial/)
+📧 Email: arunpandiyan164@gmail.com
+
+---

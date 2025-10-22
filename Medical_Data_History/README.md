@@ -1,6 +1,11 @@
 # Medical Data History 🏥
 ***
 
+## Table of Contents
+
+- [Project Overview](#project-Overview-🚀)
+- [Objectives](#Objectives-💻)
+
 
 ## Project Overview 🎯
 

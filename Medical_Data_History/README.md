@@ -3,9 +3,9 @@
 
 
 ## Project Overview 🎯
-	This ‘Medical Data History’ project discusses about history of patients, doctors and their diagnosis in the provinces of Canada.
+	<p>This ‘Medical Data History’ project discusses about history of patients, doctors and their diagnosis in the provinces of Canada.
 With all the data’s regarding patients and doctors we need to explore relevant queries so that we can find some valuable insights based on their history. SQL is used in this project for all the ‘data interpretations and findings.
-
+</p>
 In this project ‘Medical Data History’  there’s a database provided called project_medical_data_history which consists of certain tables like  admissions, doctors, patients and province_names.
 
 

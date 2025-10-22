@@ -81,11 +81,11 @@ we have to execute the below tasks using sql queries
 
 ### Technology Stack 💻
 
-Database: -[SQL Server](#Server)
+Database: SQL Server
 
-Language: [SQL (Structured Query Language)](#sql)
+Language: SQL (Structured Query Language)
 
-Tool: [My SQL Workbench](#mysql)
+Tool: My SQL Workbench
 
 ***
 
